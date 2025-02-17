@@ -1,0 +1,69 @@
+
+baghero2.png
+size: 305,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_0
+  rotate: true
+  xy: 2, 67
+  size: 220, 159
+  orig: 220, 159
+  offset: 0, 0
+  index: -1
+b_1
+  rotate: false
+  xy: 163, 185
+  size: 134, 102
+  orig: 134, 102
+  offset: 0, 0
+  index: -1
+b_2
+  rotate: false
+  xy: 186, 144
+  size: 117, 39
+  orig: 117, 39
+  offset: 0, 0
+  index: -1
+b_3
+  rotate: false
+  xy: 186, 2
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+b_4
+  rotate: false
+  xy: 229, 2
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+b_5
+  rotate: false
+  xy: 163, 95
+  size: 89, 47
+  orig: 89, 48
+  offset: 0, 1
+  index: -1
+b_6
+  rotate: false
+  xy: 2, 2
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+b_7
+  rotate: false
+  xy: 139, 11
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+b_8
+  rotate: false
+  xy: 92, 10
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1

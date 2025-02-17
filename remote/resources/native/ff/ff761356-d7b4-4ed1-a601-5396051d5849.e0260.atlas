@@ -1,0 +1,132 @@
+
+baghero1.png
+size: 1348,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_l
+  rotate: false
+  xy: 1048, 8
+  size: 98, 32
+  orig: 98, 32
+  offset: 0, 0
+  index: -1
+L_l2
+  rotate: false
+  xy: 1144, 95
+  size: 98, 32
+  orig: 98, 32
+  offset: 0, 0
+  index: -1
+L_r
+  rotate: false
+  xy: 670, 6
+  size: 100, 34
+  orig: 100, 34
+  offset: 0, 0
+  index: -1
+L_r2
+  rotate: false
+  xy: 772, 6
+  size: 100, 34
+  orig: 100, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 670, 42
+  size: 235, 239
+  orig: 235, 239
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 907, 42
+  size: 235, 239
+  orig: 235, 239
+  offset: 0, 0
+  index: -1
+f_l
+  rotate: false
+  xy: 1206, 54
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+f_l2
+  rotate: false
+  xy: 1210, 13
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+f_r
+  rotate: false
+  xy: 1144, 52
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+f_r2
+  rotate: false
+  xy: 1148, 9
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+h_l
+  rotate: true
+  xy: 1144, 206
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+h_l2
+  rotate: true
+  xy: 1144, 129
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+h_r
+  rotate: false
+  xy: 1280, 155
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+h_r2
+  rotate: false
+  xy: 1280, 27
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 874, 2
+  size: 85, 38
+  orig: 85, 39
+  offset: 0, 1
+  index: -1
+head2
+  rotate: false
+  xy: 961, 2
+  size: 85, 38
+  orig: 85, 39
+  offset: 0, 1
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 16
+  size: 332, 265
+  orig: 332, 265
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 336, 16
+  size: 332, 265
+  orig: 332, 265
+  offset: 0, 0
+  index: -1
